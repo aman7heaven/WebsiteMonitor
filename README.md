@@ -1,5 +1,5 @@
 # WebsiteMonitor
-Website availability &amp; performance monitor
+Website availability &amp;  efficient performance monitor
 
 ## JUnit Test added
 Use "Run As JUnit Test" to test Alerting logic
